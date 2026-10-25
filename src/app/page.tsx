@@ -448,7 +448,7 @@ export default function BrasilEstatisticasDashboard() {
     };
   }, [rendaMensal]);
 
-  // Dynamic Chart colors matching Rams.Log light/dark variables
+  // Dynamic Chart colors matching Rams.hoje light/dark variables
   const chartColors = useMemo(
     () => ({
       primary: isDark ? '#83b899' : '#4a6d58',
