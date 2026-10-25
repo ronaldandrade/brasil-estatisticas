@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background: Rams.Log Dark Charcoal -->
+  <rect width="64" height="64" fill="#1c1a18" />
+  <!-- Top Accent Rule: Rams.Log Sage Green -->
+  <rect x="0" y="0" width="64" height="6" fill="#6b9e80" />
+  <!-- Geometric Brazil Diamond Outline -->
+  <polygon points="32,12 56,34 32,56 8,34" fill="none" stroke="#f3f1ec" stroke-width="3.5" />
+  <!-- Data / Statistics Bars inside the Diamond -->
+  <rect x="21" y="35" width="5" height="9" fill="#6b9e80" />
+  <rect x="29.5" y="27" width="5" height="17" fill="#f3f1ec" />
+  <rect x="38" y="22" width="5" height="22" fill="#6b9e80" />
+</svg>
